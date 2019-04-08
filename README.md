@@ -23,14 +23,12 @@ Focused on installation and repairs of inverters and solar panels
 Focused on installation and repairs of **LCD** & **LED** TV's.
 
 >  ## **SKILLS**    
-* _Languges_  |  |  |  |   |    
-  | --- | --- | --- | --- | --- | --- 
-  |  | **English** | **Yoruba**  | **Igbo**  | **Pidgin**   
+* _**Languges**_  
+  English  | French | Yoruba | Igbo  | Pidgin   
  
 
-*  _Software_  |  |  |  |   |   
-  | --- | --- | --- | --- | --- | --- 
-  |  | **JavaScript** | **Java** | **Html**  |  **CSS**  
+*  **_Software_**   
+  JavaScript | Java | React | Html  |  CSS  
 
 
 
