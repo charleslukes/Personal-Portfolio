@@ -1,7 +1,7 @@
 ![Charles Picture](img/smaller.jpg)
->  ## **PERSONAL DETAILS**  
+>  ## **PERSONAL DETAILS**    
 
-  __Birth__ |  |  |  |   | **November 2** 
+ __Birth__ |  |  |  |   | **November 2** 
    | --- | --- | --- | --- | --- | ---   
    __Address__  |  |  |  |   | **Lagos Nigeria**
    __Phone__ |  |  |  |   | **+2347015182500**  
