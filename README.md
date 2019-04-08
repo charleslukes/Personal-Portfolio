@@ -1,4 +1,4 @@
-![Charles Picture](img/small.jpg)
+![Charles Picture](img/smaller.jpg)
 >  ## **PERSONAL DETAILS**  
 
   *Birth* |  |  |  |   | November 2 
