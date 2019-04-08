@@ -25,12 +25,12 @@ Focused on installation and repairs of **LCD** & **LED** TV's.
 >  ## **SKILLS**    
 * _Languges_  |  |  |  |   |    
   | --- | --- | --- | --- | --- | --- 
-  |  | **English** | **Yoruba**  | **Igbo**  | **Pidgin**   
+  **English**  | **French** | **Yoruba**  | **Igbo**  | **Pidgin**   
  
 
 *  _Software_  |  |  |  |   |   
   | --- | --- | --- | --- | --- | --- 
-  |  | **JavaScript** | **Java** | **Html**  |  **CSS**  
+  **JavaScript**  | **Java** | **React** | **Html**  |  **CSS**  
 
 
 
