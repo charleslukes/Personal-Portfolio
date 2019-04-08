@@ -1,15 +1,15 @@
 ![Charles Picture](img/smaller.jpg)
 >  ## **PERSONAL DETAILS**  
 
-  __*Birth*__ |  |  |  |   | **November 2** 
+  __Birth__ |  |  |  |   | **November 2** 
    | --- | --- | --- | --- | --- | ---   
-   __*Address*__  |  |  |  |   | **Lagos Nigeria**
-   __*Phone*__ |  |  |  |   | **+2347015182500**  
-   __*Mail*__  |  |  |  |   | **charleslukes28@gmail.com**
+   __Address__  |  |  |  |   | **Lagos Nigeria**
+   __Phone__ |  |  |  |   | **+2347015182500**  
+   __Mail__  |  |  |  |   | **charleslukes28@gmail.com**
   
 
 >  ## **EDUCATION**    
-  *YABA COLLECGE OF TECHNOLOGY* |  |  |  |   | 2013/2017
+  __YABA COLLECGE OF TECHNOLOGY__ |  |  |  |   | 2013/2017
    | --- | --- | --- | --- | --- | ---  
  __RYBEAKA MODEL COLLEGE__ |  |  |  |   | **2006/2011**
 
